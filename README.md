@@ -9,7 +9,7 @@ Simple Makefile template for 42 C language school projects.
 - Check for *.h update when make command is called
 
 ## Folder tree :
-Your folder should be layout this way
+Your folder should be ordered this way
 ```bash
 program_name/
 ├─ inc/
