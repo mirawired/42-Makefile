@@ -15,7 +15,7 @@ program_name/
 ├─ inc/
 ├─ src/
 ├─ libft/
-├─ minilib-linux/
+├─ minilibx-linux/
 ├─ Makefile
 ```
 
