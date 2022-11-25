@@ -65,7 +65,7 @@ $(LIBFT):
 
 all: $(NAME)
 
-# Delete *.o for project and librairies, delete obj/ directory
+# Delete *.o for project and libraries, delete obj/ directory
 clean:
 	rm -rdf $(OBJ_PATH)
 	$(MAKE) clean -C $(MLX_PATH)
