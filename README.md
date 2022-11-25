@@ -3,12 +3,12 @@
 
 Simple Makefile template for 42 C language school projects.
 
-## Features :
+## Features
 - Libft and Minilibx ready.
 - Compiles *.o in a separate folder created at compilation time
 - Check for *.h update when make command is called
 
-## Folder :
+## Folder
 *.h must be in the inc/ directory, then specify path in *.c files 
 ```c
 #include "./../inc/main.h"
