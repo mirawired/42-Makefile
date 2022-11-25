@@ -8,7 +8,11 @@ Simple Makefile template for 42 C language school projects.
 - Compiles *.o in a separate folder created at compilation time
 - Check for *.h update when make command is called
 
-## Folder tree :
+## Folder :
+*.h must be in the inc/ directory, then specify path in *.c files 
+```c
+#include "./../inc/main.h"
+```
 Your folder should be ordered this way
 ```bash
 program_name/
