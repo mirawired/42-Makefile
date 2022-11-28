@@ -1,7 +1,7 @@
 
 # 42 School Makefile
 
-Simple Makefile template for 42 C language school projects
+Simple Makefile template for 42 school projects (C language)
 
 ## Features
 - Libft and Minilibx ready
