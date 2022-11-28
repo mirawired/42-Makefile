@@ -24,7 +24,7 @@ program_name/
 ```
 
 ## Tips
-Makefile seems shady at first glance but reading (at least the first part) of the [official GNU make man](https://www.gnu.org/software/make/manual/make.html)  should enlight its obscurantism
+Makefile seems shady at first glance but reading (at least the first part) of the [official GNU make man](https://www.gnu.org/software/make/manual/make.html#Introduction)  should enlight its obscurantism
 
 Then, don't hesitate to test and look at other coders Makefile's to grasp the subtleties
 
