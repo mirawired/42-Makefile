@@ -1,5 +1,5 @@
-NAME	= name
-NAME	= $(NAME)
+PROG_NAME	= prog_name
+NAME		= $(PROG_NAME)
 
 CC		=	gcc
 CFLAGS 	=	-Wall -Wextra -Werror
