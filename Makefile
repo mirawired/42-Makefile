@@ -3,8 +3,8 @@
 #####################################
 
 # Program Name
-NAME	= name
-NAME	= $(NAME)
+PROG_NAME	= prog_name
+NAME		= $(PROG_NAME)
 
 # Compiler
 CC		=	gcc						# or clang
